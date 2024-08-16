@@ -1,0 +1,6 @@
+Streamlit
+PyPDF2
+langchain
+OpenAI Embeddings
+FAISS
+ChatOpenAI
